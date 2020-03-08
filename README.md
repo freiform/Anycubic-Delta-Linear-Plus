@@ -1,4 +1,4 @@
-# Anycubic-Delta-Linear-Plus
+# Log: Anycubic Delta Linear Plus
 
 ## Replace A4988 with TMC2209 (v3.0)
 
