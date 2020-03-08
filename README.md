@@ -2,7 +2,7 @@
 
 ## Replace A4988 with TMC2209 (v3.0)
 
-Stock voltages of the A4988 drivers:
+Stock voltages of the A4988 drivers in volt:
 |  X  |  Y  |  Z1  |  E0  |  E1  |
 | ---|----|---|---|---|
 | 0.822 | 0.839 | 0.848 | 0.828 | 0.9 |
