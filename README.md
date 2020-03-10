@@ -19,5 +19,8 @@ Stock voltages of the A4988 drivers in volt:
 
 * Levelling doesn't seem to work. The bed is slightly warped (concave). After using auto-calibration and -levelling and adjusting Z-Probe Height to prevent the noozle crashing into the bed at z=0, only the center of the bed is useable. For other areas the noozle is too close, squishing the 1st layer too flat, if allowing for extrusion at all. It looks as if the bed levelling doesn't have any effect. 
 
-* [Manual calibration](delta_calib_1.png) using http://www.escher3d.com/pages/wizards/wizarddelta.php. Maybe a bit better. More iterations needed? Didn't change anything about Z-Probe Height, though. 
- 
+* [Manual calibration](delta_calib_1.png) using http://www.escher3d.com/pages/wizards/wizarddelta.php. Maybe a bit better. More iterations needed? Didn't change anything about Z-Probe Height, though.
+
+* Testing [Lukas Pomykal's Firmware](http://www.lpomykal.cz/3d-printers/kossel/kossel-marlin-firmware). Slight tweaking for drivers and speed. Levelling seems to work albeit not very reliably. G28 after a print crashes the head into the X tower. Two year old, closed issues exist. Try homing manually.
+
+
