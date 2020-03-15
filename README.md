@@ -23,4 +23,6 @@ Stock voltages of the A4988 drivers in volt:
 
 * Testing [Lukas Pomykal's Firmware](http://www.lpomykal.cz/3d-printers/kossel/kossel-marlin-firmware). Slight tweaking for drivers and speed. Levelling seems to work albeit not very reliably. G28 after a print crashes the head into the X tower. Two year old, closed issues exist. Try homing manually.
 
+* Using an Ultrabase glass build plate fixes levelling issues. Whee!
+
 
